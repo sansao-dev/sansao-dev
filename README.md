@@ -1,41 +1,46 @@
 <div align="center">
 
-# 👋 Olá, eu sou Sansão!
+# 👨🏻‍💻 Kaio Rodrigues | Sansão
 
-### 💻 Desenvolvedor Full-Stack • 🎨 Designer • 📈 Marketing Digital
+### `Desenvolvedor Full-Stack | Tecnologia, Design & Marketing`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨🏻‍💻 Sobre mim
 
-Sou desenvolvedor Full-Stack apaixonado por tecnologia, criação e negócios.
+Sou **Desenvolvedor Full-Stack** e atuo em diferentes áreas da tecnologia e do digital.
 
-Gosto de transformar ideias em projetos reais, unindo **programação, design e estratégia**.
+Tenho experiência e conhecimento em **programação, bancos de dados, redes, design, UI/UX e marketing digital**, buscando sempre unir o lado técnico ao criativo.
+
+> Transformo ideias em soluções digitais.
 
 ---
 
-## 💻 Linguagens & Tecnologias
+## 🚀 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,react,flutter,git,github" />
 
 </div>
 
 ---
 
-## 🎨 Outras ferramentas
+## 🧠 Áreas de conhecimento
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
-
-</div>
+| Área | Conhecimentos |
+|---|---|
+| 💻 Desenvolvimento | Full-Stack, JavaScript, PHP, Python, React, Flutter |
+| 🗄️ Banco de Dados | MySQL |
+| 🎨 Design | Design Gráfico, UI/UX |
+| 🌐 Redes | Análise de Redes, Infraestrutura |
+| 📈 Marketing | Tráfego Pago, Marketing Digital, Social Media |
 
 ---
 
@@ -43,18 +48,19 @@ Gosto de transformar ideias em projetos reais, unindo **programação, design e 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
+## ⚡ Atualmente
 
-### ⚡ Sempre aprendendo. Sempre construindo.
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=for-the-badge)
-
-</div>
+```text
+💻 Desenvolvendo projetos
+📚 Aprendendo novas tecnologias
+🎨 Criando interfaces
+📈 Explorando negócios e marketing
+🚀 Transformando ideias em projetos reais

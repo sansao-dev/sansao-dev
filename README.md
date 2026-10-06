@@ -60,5 +60,3 @@ Tenho experiência e conhecimento em **programação, bancos de dados, redes, de
   />
 
 </p>
-📈 Explorando negócios e marketing
-🚀 Transformando ideias em projetos reais

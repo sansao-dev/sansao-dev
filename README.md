@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👨🏻‍💻 Kaio Rodrigues | Sansão
 
@@ -9,7 +9,8 @@
 
 </div>
 
----
+<br>
+<br>
 
 ## 👨🏻‍💻 Sobre mim
 
@@ -17,7 +18,8 @@ Sou **Desenvolvedor Full-Stack** e atuo em diferentes áreas da tecnologia e do 
 
 Tenho experiência e conhecimento em **programação, bancos de dados, redes, design, UI/UX e marketing digital**, buscando sempre unir o lado técnico ao criativo.
 
----
+<br>
+<br>
 
 ## 🚀 Tecnologias
 
@@ -27,19 +29,21 @@ Tenho experiência e conhecimento em **programação, bancos de dados, redes, de
 
 </div>
 
----
+<br>
+<br>
 
 ## 🧠 Áreas de conhecimento
 
 | Área | Conhecimentos |
 |---|---|
 | 💻 Desenvolvimento | Full-Stack, JavaScript, PHP, Python, React, Flutter |
-| 🗄️ Banco de Dados | MySQL |
+| 🗄️ Banco de Dados | MySQL, SQL Server |
 | 🎨 Design | Design Gráfico, UI/UX |
 | 🌐 Redes | Análise de Redes, Infraestrutura |
 | 📈 Marketing | Tráfego Pago, Marketing Digital, Social Media |
 
----
+<br>
+<br>
 
 ## 📊 GitHub Stats
 

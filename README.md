@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## 👨🏻‍💻 Sobre mim
+## Sobre mim
 
 Sou **Desenvolvedor Full-Stack** e atuo em diferentes áreas da tecnologia e do digital.
 
@@ -21,7 +21,7 @@ Tenho experiência e conhecimento em **programação, bancos de dados, redes, de
 <br>
 <br>
 
-## 🚀 Tecnologias
+## Linguagens&Tecnologias
 
 <div align="center">
 
@@ -32,20 +32,20 @@ Tenho experiência e conhecimento em **programação, bancos de dados, redes, de
 <br>
 <br>
 
-## 🧠 Áreas de conhecimento
+## Áreas de conhecimento
 
 | Área | Conhecimentos |
 |---|---|
-| 💻 Desenvolvimento | Full-Stack, JavaScript, PHP, Python, React, Flutter |
-| 🗄️ Banco de Dados | MySQL, SQL Server |
-| 🎨 Design | Design Gráfico, UI/UX |
-| 🌐 Redes | Análise de Redes, Infraestrutura |
-| 📈 Marketing | Tráfego Pago, Marketing Digital, Social Media |
+| Desenvolvimento | Full-Stack, JavaScript, PHP, Python, React, Flutter |
+| Banco de Dados | MySQL, SQL Server |
+| Design | Design Gráfico, UI/UX |
+| Redes | Análise de Redes, Infraestrutura |
+| Marketing | Tráfego Pago, Marketing Digital, Social Media |
 
 <br>
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
   <img 
